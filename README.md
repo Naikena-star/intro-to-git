@@ -1,2 +1,4 @@
 # intro-to-git
-tester for Git Hub
+Rester for Git Hub
+
+foo 
